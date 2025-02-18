@@ -1,4 +1,3 @@
-```html
 <h1>Related Works</h1>
 <p> Ryan, Kellen, Charlie, Biruk, Anthony</p>
 <ul>
@@ -19,4 +18,3 @@
 </ul>
 <h2>What's Different?</h2>
 What sets our MAVIS project apart from the voice assistants we looked into is the character aspect of it. We are taking inspiration from JARVIS from the Iron Man movies in the way that the voice assistant will be conversational. Unlike Siri, it will be witty and interact with the user in a human-like manner rather than just take instructions.
-```
